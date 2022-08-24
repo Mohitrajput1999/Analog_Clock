@@ -1,0 +1,10 @@
+.div1{
+   border: 1px solid red;
+   padding: 10px, 10px, 10px, 10px;
+} 
+body{
+   border: 5px dashed black;
+}
+#margin{
+   margin: 20px auto;
+}
